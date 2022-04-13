@@ -1,0 +1,26 @@
+{
+  "name": "challenge3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasSkylab/202204-W2CH3-tomas-sanchez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasSkylab/202204-W2CH3-tomas-sanchez/issues"
+  },
+  "homepage": "https://github.com/TomasSkylab/202204-W2CH3-tomas-sanchez#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "husky": "^7.0.0",
+    "jest": "^27.5.1"
+  }
+}
